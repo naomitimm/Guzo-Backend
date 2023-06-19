@@ -1,5 +1,11 @@
 import { Router } from "express";
-import { getAllLocationType, createLocationType, getLocationType, updateLocationType, deleteLocationType } from "../controllers/locationTypeController";
+import {
+	getAllLocationType,
+	createLocationType,
+	getLocationType,
+	updateLocationType,
+	deleteLocationType,
+} from "../controllers/locationTypeController";
 import { protect, restrictTo } from "../controllers/authController";
 
 // ////// TOURS router
@@ -9,11 +15,11 @@ const router = Router();
 router
 	.route("/")
 	.get(getAllLocationType)
-	.post(protect, restrictTo(1),  createLocationType);
+	.post(protect, restrictTo(1), createLocationType);
 router
 	.route("/:id")
 	.get(getLocationType)
 	.patch(protect, restrictTo(1), updateLocationType)
 	.delete(protect, restrictTo(1), deleteLocationType);
 
-export default router;
+export { router as locationType };

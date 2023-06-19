@@ -1,7 +1,12 @@
 import { Router } from "express";
-import { getAllTourGuide, createTourGuide, getTourGuide, updateTourGuide, deleteTourGuide } from "../controllers/tourGuideController";
-import { protect, restrictTo } from '../controllers/authController';
-
+import {
+	getAllTourGuide,
+	createTourGuide,
+	getTourGuide,
+	updateTourGuide,
+	deleteTourGuide,
+} from "../controllers/tourGuideController";
+import { protect, restrictTo } from "../controllers/authController";
 
 // ////// TOURS router
 const router = Router();
@@ -17,4 +22,4 @@ router
 	.patch(protect, restrictTo(1), updateTourGuide)
 	.delete(protect, restrictTo(1), deleteTourGuide);
 
-export default router;
+export { router as tourGuides };

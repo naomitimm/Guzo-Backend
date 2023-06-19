@@ -1,7 +1,12 @@
 import { Router } from "express";
-import { getAllLocation, createLocation, getLocation, updateLocation, deleteLocation } from "../controllers/locationController";
-import { protect, restrictTo } from '../controllers/authController';
-
+import {
+	getAllLocation,
+	createLocation,
+	getLocation,
+	updateLocation,
+	deleteLocation,
+} from "../controllers/locationController";
+import { protect, restrictTo } from "../controllers/authController";
 
 // ////// TOURS router
 const router = Router();
@@ -17,4 +22,4 @@ router
 	.patch(protect, restrictTo(1), updateLocation)
 	.delete(protect, restrictTo(1), deleteLocation);
 
-export default router;
+export { router as locations };

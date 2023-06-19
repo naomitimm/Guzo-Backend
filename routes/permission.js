@@ -1,5 +1,10 @@
 import { Router } from "express";
-import { getAllPermission, createPermission, updatePermission, deletePermission } from "../controllers/permissionController";
+import {
+	getAllPermission,
+	createPermission,
+	updatePermission,
+	deletePermission,
+} from "../controllers/permissionController";
 import { protect } from "../controllers/authController";
 
 // ////// TOURS router
@@ -15,4 +20,4 @@ router
 	.patch(protect, updatePermission)
 	.delete(protect, deletePermission);
 
-export default router;
+export { router as permissions };

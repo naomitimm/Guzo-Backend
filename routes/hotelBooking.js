@@ -1,6 +1,12 @@
 import { Router } from "express";
 import { restrictTo, protect } from "../controllers/authController";
-import { getAllHotelBooking, createHotelBooking, getHotelBooking, updateHotelBooking, deleteHotelBooking } from "../controllers/hotelBookingController";
+import {
+	getAllHotelBooking,
+	createHotelBooking,
+	getHotelBooking,
+	updateHotelBooking,
+	deleteHotelBooking,
+} from "../controllers/hotelBookingController";
 
 // ////// TOURS router
 const router = Router();
@@ -16,4 +22,4 @@ router
 	.patch(protect, updateHotelBooking)
 	.delete(protect, deleteHotelBooking);
 
-export default router;
+export { router as hotelBooking };
