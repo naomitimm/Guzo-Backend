@@ -1,0 +1,72 @@
+[
+	{
+		"_id": 1,
+		"travelmeans_id": 3,
+		"user_id": 1,
+		"price": 25.5,
+		"rating": 4.5
+	},
+	{
+		"_id": 2,
+		"travelmeans_id": 2,
+		"user_id": 2,
+		"price": 50.0,
+		"rating": 3.0
+	},
+	{
+		"_id": 3,
+		"travelmeans_id": 1,
+		"user_id": 3,
+		"price": 10.0,
+		"rating": 2.5
+	},
+	{
+		"_id": 4,
+		"travelmeans_id": 4,
+		"user_id": 4,
+		"price": 70.0,
+		"rating": 4.0
+	},
+	{
+		"_id": 5,
+		"travelmeans_id": 5,
+		"user_id": 5,
+		"price": 100.0,
+		"rating": 5.0
+	},
+	{
+		"_id": 6,
+		"travelmeans_id": 1,
+		"user_id": 6,
+		"price": 15.0,
+		"rating": 3.5
+	},
+	{
+		"_id": 7,
+		"travelmeans_id": 2,
+		"user_id": 7,
+		"price": 40.0,
+		"rating": 4.0
+	},
+	{
+		"_id": 8,
+		"travelmeans_id": 3,
+		"user_id": 8,
+		"price": 20.0,
+		"rating": 2.0
+	},
+	{
+		"_id": 9,
+		"travelmeans_id": 4,
+		"user_id": 9,
+		"price": 60.0,
+		"rating": 3.0
+	},
+	{
+		"_id": 10,
+		"travelmeans_id": 5,
+		"user_id": 10,
+		"price": 80.0,
+		"rating": 4.5
+	}
+]

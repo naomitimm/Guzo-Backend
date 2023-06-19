@@ -1,0 +1,22 @@
+[
+	{
+		"_id": 1,
+		"name": "Create",
+		"url": "/api/create"
+	},
+	{
+		"_id": 2,
+		"name": "Read",
+		"url": "/api/read"
+	},
+	{
+		"_id": 3,
+		"name": "Update",
+		"url": "/api/update"
+	},
+	{
+		"_id": 4,
+		"name": "Delete",
+		"url": "/api/delete"
+	}
+]

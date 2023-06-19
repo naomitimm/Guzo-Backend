@@ -1,0 +1,97 @@
+[
+	{
+		"_id": 1,
+		"name": "View Dashboard",
+		"description": "Allows users to view the website dashboard."
+	},
+	{
+		"_id": 2,
+		"name": "Manage Bookings",
+		"description": "Allows users to manage their tour bookings."
+	},
+	{
+		"_id": 3,
+		"name": "Manage Tours",
+		"description": "Allows administrators to manage tours on the website."
+	},
+	{
+		"_id": 4,
+		"name": "View Hotel Page",
+		"description": "Allows users to view information about hotels on the website."
+	},
+	{
+		"_id": 5,
+		"name": "View Restaurant Page",
+		"description": "Allows users to view information about restaurants on the website."
+	},
+	{
+		"_id": 6,
+		"name": "View Tours",
+		"description": "Allows users to view a list of tours available on the website."
+	},
+	{
+		"_id": 7,
+		"name": "Book Tours",
+		"description": "Allows users to book a tour and make payments online."
+	},
+	{
+		"_id": 8,
+		"name": "Cancel Tours",
+		"description": "Allows users to cancel their bookings and get refunds."
+	},
+	{
+		"_id": 9,
+		"name": "Create Tours",
+		"description": "Allows administrators to create new tours and add them to the website."
+	},
+	{
+		"_id": 10,
+		"name": "Update Tours",
+		"description": "Allows administrators to update information about existing tours on the website."
+	},
+	{
+		"_id": 11,
+		"name": "Delete Tours",
+		"description": "Allows administrators to delete tours from the website."
+	},
+	{
+		"_id": 12,
+		"name": "View Customers",
+		"description": "Allows administrators to view a list of customers who have booked tours."
+	},
+	{
+		"_id": 13,
+		"name": "Edit Customers",
+		"description": "Allows administrators to edit customer information and booking details."
+	},
+	{
+		"_id": 14,
+		"name": "Delete Customers",
+		"description": "Allows administrators to delete customer records from the website."
+	},
+	{
+		"_id": 15,
+		"name": "Edit Tours",
+		"description": "Allows administrators to edit information about existing tours on the website."
+	},
+	{
+		"_id": 16,
+		"name": "View Hotels",
+		"description": "Allows users to view information about hotels on the website."
+	},
+	{
+		"_id": 17,
+		"name": "Create Hotels",
+		"description": "Allows administrators to create new hotel listings on the website."
+	},
+	{
+		"_id": 18,
+		"name": "Edit Hotels",
+		"description": "Allows administrators to edit information about existing hotels on the website."
+	},
+	{
+		"_id": 19,
+		"name": "Delete Hotels",
+		"description": "Allows administrators to delete hotel listings from the website."
+	}
+]

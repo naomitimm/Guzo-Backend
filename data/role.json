@@ -1,0 +1,17 @@
+[
+	{
+		"_id": 1,
+		"name": "Admin",
+		"description": "Full access to all system functionality"
+	},
+	{
+		"_id": 2,
+		"name": "User",
+		"description": "Can create and modify bookings"
+	},
+	{
+		"_id": 3,
+		"name": "Tour Guide",
+		"description": "Can manage their profile"
+	}
+]

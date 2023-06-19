@@ -1,0 +1,162 @@
+[
+	{
+		"_id": 1,
+		"name": "Bozena shiro",
+		"price": 5.99,
+		"restaurant_id": 1,
+		"image": "/images/meals/Bozena-shiro.jpg",
+		"description": "Lorem dolor sit amet, consectetur adipiscing elit. Pellentesque velilit tempor "
+	},
+	{
+		"_id": 2,
+		"name": "Kitfo",
+		"price": 9.99,
+		"restaurant_id": 2,
+		"image": "/images/meals/kitfo.jpg",
+		"description": "Lorem dolor sit amet, consectetur adipiscing elit. Pellentesque velilit tempor "
+	},
+	{
+		"_id": 3,
+		"name": "Doro Wat",
+		"price": 8.99,
+		"restaurant_id": 3,
+		"image": "/images/meals/Doro-Wat.jpg",
+		"description": "Lorem dolor sit amet, consectetur adipiscing elit. Pellentesque velilit tempor "
+	},
+	{
+		"_id": 4,
+		"name": "Tibs",
+		"price": 10.99,
+		"restaurant_id": 4,
+		"image": "/images/meals/Tibs.jpg",
+		"description": "Lorem dolor sit amet, consectetur adipiscing elit. Pellentesque velilit tempor "
+	},
+	{
+		"_id": 5,
+		"name": "Shiro",
+		"price": 7.99,
+		"restaurant_id": 5,
+		"image": "/images/meals/Shiro.jpg",
+		"description": "Lorem dolor sit amet, consectetur adipiscing elit. Pellentesque velilit tempor "
+	},
+	{
+		"_id": 6,
+		"name": "Gomen",
+		"price": 6.99,
+		"restaurant_id": 6,
+		"image": "/images/meals/Gomen.jpg",
+		"description": "Lorem dolor sit amet, consectetur adipiscing elit. Pellentesque velilit tempor "
+	},
+	{
+		"_id": 7,
+		"name": "Zigni",
+		"price": 8.99,
+		"restaurant_id": 7,
+		"image": "/images/meals/Zigni.jpg",
+		"description": "Lorem dolor sit amet, consectetur adipiscing elit. Pellentesque velilit tempor "
+	},
+	{
+		"_id": 8,
+		"name": "Key Wot",
+		"price": 7.99,
+		"restaurant_id": 8,
+		"image": "/images/meals/Key-Wot.jpg",
+		"description": "Lorem dolor sit amet, consectetur adipiscing elit. Pellentesque velilit tempor "
+	},
+	{
+		"_id": 9,
+		"name": "Afar-style beef tibs",
+		"price": 11.99,
+		"restaurant_id": 9,
+		"image": "/images/meals/Afar-style-tibs.jpg",
+		"description": "Lorem dolor sit amet, consectetur adipiscing elit. Pellentesque velilit tempor "
+	},
+	{
+		"_id": 10,
+		"name": "Kurkufa bread",
+		"price": 3.99,
+		"restaurant_id": 10,
+		"image": "/images/meals/Kurkufa-bread.jpg",
+		"description": "Lorem dolor sit amet, consectetur adipiscing elit. Pellentesque velilit tempor "
+	},
+	{
+		"_id": 11,
+		"name": "Shahan ful",
+		"price": 5.99,
+		"restaurant_id": 11,
+		"image": "/images/meals/Shahan-ful.jpg",
+		"description": "Lorem dolor sit amet, consectetur adipiscing elit. Pellentesque velilit tempor "
+	},
+	{
+		"_id": 12,
+		"name": "Café touba",
+		"price": 4.99,
+		"restaurant_id": 12,
+		"image": "/images/meals/Café-touba.jpg",
+		"description": "Lorem dolor sit amet, consectetur adipiscing elit. Pellentesque velilit tempor "
+	},
+	{
+		"_id": 13,
+		"name": "Danakil-style goat stew",
+		"price": 12.99,
+		"restaurant_id": 13,
+		"image": "/images/meals/Danakil-style-goat-stew.jpg",
+		"description": "Lorem dolor sit amet, consectetur adipiscing elit. Pellentesque velilit tempor "
+	},
+	{
+		"_id": 14,
+		"name": "Gomen kitfo",
+		"price": 9.99,
+		"restaurant_id": 14,
+		"image": "/images/meals/Gomen-kitfo.jpg",
+		"description": "Lorem dolor sit amet, consectetur adipiscing elit. Pellentesque velilit tempor "
+	},
+	{
+		"_id": 15,
+		"name": "Coffee",
+		"price": 2.99,
+		"restaurant_id": 15,
+		"image": "/images/meals/Coffee.jpg",
+		"description": "Lorem dolor sit amet, consectetur adipiscing elit. Pellentesque velilit tempor "
+	},
+	{
+		"_id": 16,
+		"name": "Tea",
+		"price": 1.99,
+		"restaurant_id": 16,
+		"image": "/images/meals/Tea.jpg",
+		"description": "Lorem dolor sit amet, consectetur adipiscing elit. Pellentesque velilit tempor "
+	},
+	{
+		"_id": 17,
+		"name": "Pastries",
+		"price": 3.99,
+		"restaurant_id": 17,
+		"image": "/images/meals/Pastries.jpg",
+		"description": "Lorem dolor sit amet, consectetur adipiscing elit. Pellentesque velilit tempor "
+	},
+	{
+		"_id": 18,
+		"name": "Doro Wat",
+		"price": 7.99,
+		"restaurant_id": 188,
+		"image": "/images/meals/Doro-Wat.jpg",
+		"description": "Lorem dolor sit amet, consectetur adipiscing elit. Pellentesque velilit tempor "
+	},
+	{
+		"_id": 19,
+		"name": "Kitfo",
+		"price": 10.99,
+		"restaurant_id": 19,
+		"image": "/images/meals/Kitfo.jpeg",
+		"description": "Lorem dolor sit amet, consectetur adipiscing elit. Pellentesque velilit tempor "
+	},
+	{
+		"_id": 20,
+		"name": "Injera ferfer",
+		"price": 4.99,
+		"restaurant_id": 20,
+		"image": "/images/meals/Injera-ferfer.jpeg",
+		"description": "Lorem dolor sit amet, consectetur adipiscing elit. Pellentesque velilit tempor "
+	}
+]

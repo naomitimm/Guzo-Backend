@@ -1,0 +1,111 @@
+[
+	{
+		"id": 1,
+		"name": "The Historic Route",
+		"travelMeans": "Car",
+		"summary": "Explore Ethiopia's rich history and culture on a journey through ancient ruins, monasteries, and castles.",
+		"type": "Cultural",
+		"rating": 4.2,
+		"price": 300,
+		"imageCover": "historic_route.jpg"
+	},  
+	{
+		"id": 2,
+		"name": "The Danakil Depression",
+		"location": "Eastern Ethiopia",
+		"travelMeans": "Car",
+		"summary": "Witness one of the hottest and most inhospitable places on earth, with bubbling lava lakes, salt flats, and colorful geothermal pools.",
+		"type": "Adventure",
+		"rating": 4.8,
+		"price": 200,
+		"imageCover": "danakil_depression.jpg"
+	},
+	{
+		"id": 3,
+		"name": "The Simien Mountains",
+		"location": "Northern Ethiopia",
+		"travelMeans": "Hiking",
+		"summary": "Embark on a multi-day trek through one of Africa's most stunning mountain ranges, with dramatic cliffs, deep gorges, and rare wildlife.",
+		"type": "Adventure",
+		"rating": 4.5,
+		"price": 500,
+		"imageCover": "simien_mountains.jpg"
+	},
+	{
+		"id": 4,
+		"name": "The Omo Valley",
+		"location": "Southern Ethiopia",
+		"travelMeans": "Car",
+		"summary": "Meet some of Ethiopia's most fascinating tribes and learn about their unique cultures and customs.",
+		"type": "Cultural",
+		"rating": 3.9,
+		"price": 200,
+		"imageCover": "omo_valley.jpg"
+	},
+	{
+		"id": 5,
+		"name": "The Bale Mountains",
+		"location": "Eastern Ethiopia",
+		"travelMeans": "Hiking",
+		"summary": "Discover the natural beauty of Ethiopia's second-highest mountain range, with lush forests, alpine meadows, and endemic wildlife.",
+		"type": "Nature",
+		"rating": 4.7,
+		"price": 100,
+		"imageCover": "bale_mountains.jpg"
+	},
+	{
+		"id": 6,
+		"name": "The Blue Nile Falls",
+		"location": "Northern Ethiopia",
+		"travelMeans": "Boat",
+		"summary": "Experience the power and beauty of Ethiopia's most famous waterfall, surrounded by lush jungle and birdlife.",
+		"type": "Nature",
+		"rating": 4.1,
+		"price": 300,
+		"imageCover": "blue_nile_falls.jpg"
+	},
+	{
+		"id": 7,
+		"name": "The Rock-Hewn Churches of Lalibela",
+		"location": "Northern Ethiopia",
+		"travelMeans": "Plane",
+		"summary": "Marvel at the incredible craftsmanship of these ancient churches carved out of solid rock, and learn about their religious significance.",
+		"type": "Cultural",
+		"rating": 4.6,
+		"price": 400,
+		"imageCover": "lalibela_churches.jpg"
+	},
+	{
+		"id": 8,
+		"name": "The Rift Valley Lakes",
+		"location": "Central Ethiopia",
+		"travelMeans": "Car",
+		"summary": "Visit several of Ethiopia's most beautiful and diverse lakes",
+		"type": "Cultural",
+		"rating": 4.6,
+		"price": 400,
+		"imageCover": "Rift_Valley.jpg"
+	},
+	{
+		"id": 9,
+		"name": "Awasa City Tour",
+		"location": "Awasa, Ethiopia",
+		"travelMeans": "Walking",
+		"summary": "Explore the vibrant city of Awasa, known for its bustling markets, beautiful lake, and lively nightlife.",
+		"type": "Cultural",
+		"rating": 4.2,
+		"price": 300,
+		"imageCover": "awasa_city_tour.jpg"
+	},
+	{
+		"id": 10,
+		"name": "Birdwatching on Lake Awasa",
+		"location": "Awasa, Ethiopia",
+		"travelMeans": "Boat",
+		"summary": "Embark on a peaceful boat ride through the serene waters of Lake Awasa and spot a variety of bird species.",
+		"type": "Nature",
+		"rating": 4.8,
+		"price": 200,
+		"imageCover": "awasa_birdwatching.jpg"
+	}
+]

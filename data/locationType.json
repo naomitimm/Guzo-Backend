@@ -1,0 +1,155 @@
+[
+	{
+		"_id": 1,
+		"country": "Ethiopia",
+		"region": "Afar",
+		"zone": "Zone 2",
+		"woreda": "Dubti",
+		"image": "/images/afar-dubti.jpg",
+		"description": "Afar is a region located in northeastern Ethiopia known for its ar_id landscapes, desert plains, and unique geological formations. It is home to the Danakil Depression, one of the hottest places on Earth, as well as fascinating salt flats, volcanoes, and hot springs. The region offers a truly unique and otherworldly experience for adventurous travelers."
+	},
+	{
+		"_id": 2,
+		"country": "Ethiopia",
+		"region": "Oromia",
+		"zone": "East Hararghe",
+		"woreda": "Meta",
+		"image": "/images/east-hararghe.jpg",
+		"description": "Oromia is the largest and most populous region in Ethiopia. It is located in the central part of the country and is known for its diverse culture, natural beauty, and historical significance. The region offers a w_ide range of attractions, including the stunning Bale Mountains, Rift Valley lakes, and vibrant traditional festivals."
+	},
+	{
+		"_id": 3,
+		"country": "Ethiopia",
+		"region": "Southern Nations, Nationalities, and Peoples' Region",
+		"zone": "Sidama",
+		"woreda": "Dale",
+		"image": "/images/sidama.jpg",
+		"description": "The Southern Nations, Nationalities, and Peoples' Region (SNNPR) is a diverse region in Ethiopia known for its cultural diversity, stunning landscapes, and traditional practices. It is home to numerous ethnic groups and offers unique experiences such as visiting tribal villages, exploring national parks, and enjoying traditional music and dance."
+	},
+	{
+		"_id": 4,
+		"country": "Ethiopia",
+		"region": "Somali",
+		"zone": "Sitti",
+		"woreda": "Harshin",
+		"image": "/images/somali-harshin.jpg",
+		"description": "The Somali region is located in eastern Ethiopia and shares a border with Somalia. It is known for its vast plains, traditional nomadic cultures, and vibrant markets. Travelers can experience the rich traditions and customs of the Somali people, explore the unique landscapes, and witness the lively camel markets."
+	},
+	{
+		"_id": 5,
+		"country": "Ethiopia",
+		"region": "Benishangul-Gumuz",
+		"zone": "Metekel",
+		"woreda": "Mao-Komo",
+		"image": "/images/metekel.jpeg",
+		"description": "Benishangul-Gumuz is a region located in western Ethiopia. It is known for its diverse ethnic groups, natural beauty, and cultural heritage. The region is home to the Blue Nile Falls, also known as the 'Smoke of Fire,' as well as the wild landscapes of the Metekel Zone and the traditional practices of the Gumuz people."
+	},
+	{
+		"_id": 6,
+		"country": "Ethiopia",
+		"region": "Afar",
+		"zone": "Zone 3",
+		"woreda": "El_idar",
+		"image": "/images/afar-elidar.jpg",
+		"description": "Afar is a region located in northeastern Ethiopia known for its ar_id landscapes, desert plains, and unique geological formations. It is home to the Danakil Depression, one of the hottest places on Earth, as well as fascinating salt flats, volcanoes, and hot springs. The region offers a truly unique and otherworldly experience for adventurous travelers."
+	},
+	{
+		"_id": 7,
+		"country": "Ethiopia",
+		"region": "Oromia",
+		"zone": "West Guji",
+		"woreda": "Kercha",
+		"image": "/images/oromia-kercha.jpg",
+		"description": "Oromia is the largest and most populous region in Ethiopia. It is located in the central part of the country and is known for its diverse culture, natural beauty, and historical significance. The region offers a w_ide range of attractions, including the stunning Bale Mountains, Rift Valley lakes, and vibrant traditional festivals."
+	},
+	{
+		"_id": 8,
+		"country": "Ethiopia",
+		"region": "Amhara",
+		"zone": "South Wollo",
+		"woreda": "Dessie Zuria",
+		"image": "/images/amhara-wollo.jpg",
+		"description": "The Amhara region is one of the nine regional states of Ethiopia. It is located in the northern part of the country and is known for its rich cultural heritage, historical sites, and breathtaking landscapes. The region is home to iconic destinations such as Lalibela, Gondar, and Lake Tana."
+	},
+	{
+		"_id": 9,
+		"country": "Ethiopia",
+		"region": "Tigray",
+		"zone": "Eastern Tigray",
+		"woreda": "Wukro",
+		"image": "/images/tigray-wukro.jpg",
+		"description": "Tigray is a region located in the northern part of Ethiopia. It is known for its ancient rock-hewn churches, historic sites, and rugged mountainous landscapes. The region offers a unique cultural experience and is a treasure trove for history enthusiasts and nature lovers."
+	},
+	{
+		"_id": 10,
+		"country": "Ethiopia",
+		"region": "Tigray",
+		"zone": "Central Tigray",
+		"woreda": "Adwa",
+		"image": "/images/adwa.jpg",
+		"description": "Tigray is a region located in the northern part of Ethiopia. It is known for its ancient rock-hewn churches, historic sites, and rugged mountainous landscapes. The region offers a unique cultural experience and is a treasure trove for history enthusiasts and nature lovers."
+	},
+	{
+		"_id": 11,
+		"country": "Ethiopia",
+		"region": "Southern Nations, Nationalities, and Peoples' Region",
+		"zone": "Gamo Gofa",
+		"woreda": "Arba Minch Zuria",
+		"image": "/images/arbaminch.jpg",
+		"description": "The Southern Nations, Nationalities, and Peoples' Region (SNNPR) is a diverse region in Ethiopia known for its cultural diversity, stunning landscapes, and traditional practices. It is home to numerous ethnic groups and offers unique experiences such as visiting tribal villages, exploring national parks, and enjoying traditional music and dance."
+	},
+	{
+		"_id": 12,
+		"country": "Ethiopia",
+		"region": "Afar",
+		"zone": "Zone 1",
+		"woreda": "Erebti",
+		"image": "/images/erebti.jpg",
+		"description": "Afar is a region located in northeastern Ethiopia known for its ar_id landscapes, desert plains, and unique geological formations. It is home to the Danakil Depression, one of the hottest places on Earth, as well as fascinating salt flats, volcanoes, and hot springs. The region offers a truly unique and otherworldly experience for adventurous travelers."
+	},
+	{
+		"_id": 13,
+		"country": "Ethiopia",
+		"region": "Oromia",
+		"zone": "West Shewa",
+		"woreda": "Ambo",
+		"image": "/images/ambo.jpg",
+		"description": "Oromia is the largest and most populous region in Ethiopia. It is located in the central part of the country and is known for its diverse culture, natural beauty, and historical significance. The region offers a w_ide range of attractions, including the stunning Bale Mountains, Rift Valley lakes, and vibrant traditional festivals."
+	},
+	{
+		"_id": 14,
+		"country": "Ethiopia",
+		"region": "Tigray",
+		"zone": "Western Tigray",
+		"woreda": "Humera",
+		"image": "/images/humera.jpg",
+		"description": "Tigray is a region located in the northern part of Ethiopia. It is known for its ancient rock-hewn churches, historic sites, and rugged mountainous landscapes. The region offers a unique cultural experience and is a treasure trove for history enthusiasts and nature lovers."
+	},
+	{
+		"_id": 15,
+		"country": "Ethiopia",
+		"region": "Amhara",
+		"zone": "South Wollo",
+		"woreda": "Woldia",
+		"image": "/images/woldia.jpg",
+		"description": "The Amhara region is one of the nine regional states of Ethiopia. It is located in the northern part of the country and is known for its rich cultural heritage, historical sites, and breathtaking landscapes. The region is home to iconic destinations such as Lalibela, Gondar, and Lake Tana."
+	},
+	{
+		"_id": 16,
+		"country": "Ethiopia",
+		"region": "Amhara",
+		"zone": "North Gondar",
+		"woreda": "Gondar Zuria",
+		"image": "/images/gondar-zuria.jpg",
+		"description": "Gondar Zuria is a woreda in the North Gondar Zone of the Amhara Region in Ethiopia. It is known for its historical significance, particularly the Royal Enclosure which contains several castles and palaces dating back to the 17th century."
+	},
+	{
+		"_id": 17,
+		"country": "Ethiopia",
+		"region": "Oromia",
+		"zone": "Arsi",
+		"woreda": "Asella",
+		"image": "/images/asella.jpeg",
+		"description": "Asella is a town in the Arsi Zone of the Oromia Region in Ethiopia. It is surrounded by beautiful landscapes and is known for its traditional markets, cultural festivals, and the scenic Mount Chilalo."
+	}
+]

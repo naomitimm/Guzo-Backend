@@ -1,0 +1,90 @@
+[
+	{
+		"_id": 1,
+		"name": "Alex smith",
+		"location_id": 1,
+		"featuring": "Historical sites",
+		"image": "/images/guide/Alex-smith.jpg",
+		"rating": 4.5
+	},
+	{
+		"_id": 2,
+		"name": "Helen dejener",
+		"location_id": 2,
+		"featuring": "Hiking trails",
+		"image": "/images/guide/Helen-dejener.jpg",
+		"rating": 4.8
+	},
+	{
+		"_id": 3,
+		"name": "Mark jaden",
+		"location_id": 3,
+		"featuring": "Wildlife tours",
+		"image": "/images/guide/Mark-jaden.jpg",
+		"rating": 4.7
+	},
+	{
+		"_id": 4,
+		"name": "Sara mark",
+		"location_id": 4,
+		"featuring": "Cultural experiences",
+		"image": "/images/guide/Sara-mark.jpg",
+		"rating": 4.6
+	},
+	{
+		"_id": 5,
+		"name": "Drake Peter",
+		"location_id": 5,
+		"featuring": "Safari tours",
+		"image": "/images/guide/Drake-Peter.jpg",
+		"rating": 4.9
+	},
+	{
+		"_id": 6,
+		"name": "Sophie matt",
+		"location_id": 6,
+		"featuring": "Adventure tours",
+		"image": "/images/guide/Sophie-matt.jpg",
+		"rating": 4.3
+	},
+	{
+		"_id": 7,
+		"name": "John calvin",
+		"location_id": 7,
+		"featuring": "Beach tours",
+		"image": "/images/guide/John-calvin.jpg",
+		"rating": 4.2
+	},
+	{
+		"_id": 8,
+		"name": "Lisa perry",
+		"location_id": 8,
+		"featuring": "City tours",
+		"image": "/images/guide/Lisa-perry.jpg",
+		"rating": 4.4
+	},
+	{
+		"_id": 9,
+		"name": "Dave said",
+		"location_id": 9,
+		"featuring": "Food tours",
+		"image": "/images/guide/Dave-said.jpg",
+		"rating": 4.5
+	},
+	{
+		"_id": 10,
+		"name": "Maria mathew",
+		"location_id": 10,
+		"featuring": "Photography tours",
+		"image": "/images/guide/Maria-mathew.jpg",
+		"rating": 4.7
+	},
+	{
+		"_id": 11,
+		"name": "Daniel geta",
+		"location_id": 11,
+		"featuring": "Nature tours",
+		"image": "/images/guide/Daniel-geta.jpeg",
+		"rating": 4.6
+	}
+]

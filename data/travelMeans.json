@@ -1,0 +1,87 @@
+[
+	{
+	  "_id": 1,
+	  "type": "Taxi",
+	  "location_id": 1,
+	  "image": "/images/travel/taxi.jpg",
+	  "description": "Convenient transportation"
+	},
+	{
+	  "_id": 2,
+	  "type": "Bus",
+	  "location_id": 1,
+	  "image": "/images/travel/bus.png",
+	  "description": "Economical public transit"
+	},
+	{
+	  "_id": 3,
+	  "type": "Minibus",
+	  "location_id": 1,
+	  "image": "/images/travel/Minibus.jpg",
+	  "description": "Transport for small groups"
+	},
+	{
+	  "_id": 4,
+	  "type": "Light Rail",
+	  "location_id": 1,
+	  "image": "/images/travel/Light-Rail.jpg",
+	  "description": "Efficient urban transit"
+	},
+	{
+	  "_id": 5,
+	  "type": "Bajaj",
+	  "location_id": 1,
+	  "image": "/images/travel/Bajaj.jpg",
+	  "description": "Three-wheeler vehicle"
+	},
+	{
+	  "_id": 6,
+	  "type": "Car Rental",
+	  "location_id": 1,
+	  "image": "/images/travel/Car-Rental.jpg",
+	  "description": "Flexible car rental"
+	},
+	{
+	  "_id": 7,
+	  "type": "Bicycle Rental",
+	  "location_id": 1,
+	  "image": "/images/travel/Bicycle-Rental.jpg",
+	  "description": "Short-term bike rental"
+	},
+	{
+	  "_id": 8,
+	  "type": "Motorcycle Rental",
+	  "location_id": 1,
+	  "image": "/images/travel/Motorcycle-Rental.jpg",
+	  "description": "Exciting bike rental"
+	},
+	{
+	  "_id": 9,
+	  "type": "Scooter Rental",
+	  "location_id": 1,
+	  "image": "/images/travel/Scooter-Rental.jpg",
+	  "description": "Efficient scooter rental"
+	},
+	{
+	  "_id": 10,
+	  "type": "Segway Rental",
+	  "location_id": 1,
+	  "image": "/images/travel/Segway-Rental.jpg",
+	  "description": "Futuristic transport rental"
+	},
+	{
+	  "_id": 11,
+	  "type": "Train",
+	  "location_id": 2,
+	  "image": "/images/travel/Train.jpg",
+	  "description": "Scenic train journey"
+	},
+	{
+	  "_id": 12,
+	  "type": "Airplane",
+	  "location_id": 3,
+	  "image": "/images/travel/Airplane.jpg",
+	  "description": "Fast air travel"
+	}
+  ]
+  

@@ -1,0 +1,122 @@
+[
+	{
+		"_id": 1,
+		"checkin": "2023-06-01",
+		"checkout": "2023-06-02",
+		"restaurant_id": 1,
+		"user_id": 1,
+		"review": {
+			"rating": 4.5,
+			"likes": 10,
+			"description": "Great food and service!"
+		}
+	},
+	{
+		"_id": 2,
+		"checkin": "2023-06-03",
+		"checkout": "2023-06-04",
+		"restaurant_id": 2,
+		"user_id": 2,
+		"review": {
+			"rating": 3.5,
+			"likes": 5,
+			"description": "Decent food but service was slow."
+		}
+	},
+	{
+		"_id": 3,
+		"checkin": "2023-06-01",
+		"checkout": "2023-06-02",
+		"restaurant_id": 1,
+		"user_id": 1,
+		"review": {
+			"rating": 4.5,
+			"likes": 10,
+			"description": "Great food and atmosphere!"
+		}
+	},
+	{
+		"_id": 4,
+		"checkin": "2023-06-02",
+		"checkout": "2023-06-03",
+		"restaurant_id": 3,
+		"user_id": 2,
+		"review": {
+			"rating": 3.2,
+			"likes": 2,
+			"description": "Service was slow, but the food was good."
+		}
+	},
+	{
+		"_id": 5,
+		"checkin": "2023-06-04",
+		"checkout": "2023-06-05",
+		"restaurant_id": 2,
+		"user_id": 3,
+		"review": {
+			"rating": 5,
+			"likes": 20,
+			"description": "Amazing food and great service!"
+		}
+	},
+	{
+		"_id": 6,
+		"checkin": "2023-06-06",
+		"checkout": "2023-06-07",
+		"restaurant_id": 4,
+		"user_id": 4,
+		"review": {
+			"rating": 2.5,
+			"likes": 1,
+			"description": "Food was not very good and the service was slow."
+		}
+	},
+	{
+		"_id": 7,
+		"checkin": "2023-06-08",
+		"checkout": "2023-06-09",
+		"restaurant_id": 1,
+		"user_id": 5,
+		"review": {
+			"rating": 4,
+			"likes": 8,
+			"description": "Good food, but the restaurant was very busy."
+		}
+	},
+	{
+		"_id": 8,
+		"checkin": "2023-06-10",
+		"checkout": "2023-06-11",
+		"restaurant_id": 2,
+		"user_id": 6,
+		"review": {
+			"rating": 4.8,
+			"likes": 15,
+			"description": "Excellent food and service!"
+		}
+	},
+	{
+		"_id": 9,
+		"checkin": "2023-06-12",
+		"checkout": "2023-06-13",
+		"restaurant_id": 3,
+		"user_id": 7,
+		"review": {
+			"rating": 3,
+			"likes": 3,
+			"description": "Average food and service."
+		}
+	},
+	{
+		"_id": 10,
+		"checkin": "2023-06-14",
+		"checkout": "2023-06-15",
+		"restaurant_id": 4,
+		"user_id": 8,
+		"review": {
+			"rating": 4.2,
+			"likes": 12,
+			"description": "Great food, but the restaurant was a bit noisy."
+		}
+	}
+]

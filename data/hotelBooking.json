@@ -1,0 +1,178 @@
+[
+	{
+		"_id": 1,
+		"hotel_id": 1,
+		"user_id": 1,
+		"room_id": 1,
+		"status": false,
+		"checkin_date": "2023-06-01",
+		"checkout_date": "2023-06-05",
+		"review": {
+			"rating": 4.5,
+			"likes": 10,
+			"description": "The hotel was great, clean and comfortable. The staff were very friendly and helpful."
+		}
+	},
+	{
+		"_id": 2,
+		"hotel_id": 2,
+		"user_id": 2,
+		"room_id": 2,
+		"status": false,
+		"checkin_date": "2023-07-01",
+		"checkout_date": "2023-07-05",
+		"review": {
+			"rating": 3.8,
+			"likes": 5,
+			"description": "The hotel was okay, but the room was a bit small and the service was slow."
+		}
+	},
+	{
+		"_id": 3,
+		"hotel_id": 3,
+		"user_id": 3,
+		"room_id": 3,
+		"status": false,
+		"checkin_date": "2023-08-01",
+		"checkout_date": "2023-08-05",
+		"review": {
+			"rating": 5,
+			"likes": 20,
+			"description": "Absolutely loved this hotel! The room was spacious and luxurious, and the service was impeccable."
+		}
+	},
+	{
+		"_id": 4,
+		"hotel_id": 4,
+		"user_id": 4,
+		"room_id": 4,
+		"status": true,
+		"checkin_date": "2023-09-01",
+		"checkout_date": "2023-09-05",
+		"review": null
+	},
+	{
+		"_id": 5,
+		"hotel_id": 5,
+		"user_id": 5,
+		"room_id": 5,
+		"status": true,
+		"checkin_date": "2023-10-01",
+		"checkout_date": "2023-10-05",
+		"review": null
+	},
+	{
+		"_id": 6,
+		"hotel_id": 6,
+		"user_id": 6,
+		"room_id": 6,
+		"status": false,
+		"checkin_date": "2023-11-01",
+		"checkout_date": "2023-11-05",
+		"review": null
+	},
+	{
+		"_id": 7,
+		"hotel_id": 7,
+		"user_id": 7,
+		"room_id": 7,
+		"status": true,
+		"checkin_date": "2023-12-01",
+		"checkout_date": "2023-12-05",
+		"review": null
+	},
+	{
+		"_id": 8,
+		"hotel_id": 8,
+		"user_id": 8,
+		"room_id": 8,
+		"status": false,
+		"checkin_date": "2024-01-01",
+		"checkout_date": "2024-01-05",
+		"review": null
+	},
+	{
+		"_id": 9,
+		"hotel_id": 1,
+		"user_id": 1,
+		"room_id": 1,
+		"status": false,
+		"checkin_date": "2023-06-01",
+		"checkout_date": "2023-06-05",
+		"review": {
+			"rating": 4.5,
+			"likes": 10,
+			"description": "The hotel was clean and comfortable. The staff were friendly and helpful."
+		}
+	},
+	{
+		"_id": 10,
+		"hotel_id": 2,
+		"user_id": 2,
+		"room_id": 2,
+		"status": false,
+		"checkin_date": "2023-07-10",
+		"checkout_date": "2023-07-15",
+		"review": {
+			"rating": 3.5,
+			"likes": 5,
+			"description": "The hotel was okay, but there were some issues with the room cleanliness and noise levels."
+		}
+	},
+	{
+		"_id": 11,
+		"hotel_id": 3,
+		"user_id": 3,
+		"room_id": 3,
+		"status": false,
+		"checkin_date": "2023-08-20",
+		"checkout_date": "2023-08-25",
+		"review": {
+			"rating": 5,
+			"likes": 20,
+			"description": "This was an amazing hotel experience! The staff were attentive, the room was luxurious, and the location was perfect."
+		}
+	},
+	{
+		"_id": 12,
+		"hotel_id": 4,
+		"user_id": 4,
+		"room_id": 4,
+		"status": false,
+		"checkin_date": "2023-09-15",
+		"checkout_date": "2023-09-20",
+		"review": {
+			"rating": 4,
+			"likes": 8,
+			"description": "Overall, the hotel was good. However, there were some issues with the room temperature control and the bathroom plumbing."
+		}
+	},
+	{
+		"_id": 13,
+		"hotel_id": 5,
+		"user_id": 5,
+		"room_id": 5,
+		"status": true,
+		"checkin_date": "2023-10-05",
+		"checkout_date": "2023-10-10",
+		"review": {
+			"rating": 4.5,
+			"likes": 12,
+			"description": "The hotel had a great location and the room was spacious and comfortable. However, there were some issues with the noise levels and the staff responsiveness."
+		}
+	},
+	{
+		"_id": 14,
+		"hotel_id": 1,
+		"user_id": 6,
+		"room_id": 2,
+		"status": false,
+		"checkin_date": "2023-11-01",
+		"checkout_date": "2023-11-05",
+		"review": {
+			"rating": 3,
+			"likes": 2,
+			"description": "The hotel was average, but there were some issues with the room maintenance and cleanliness."
+		}
+	}
+]

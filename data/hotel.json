@@ -1,0 +1,227 @@
+[
+	{
+		"_id": 1,
+		"name": "Sheraton Addis",
+		"description": "Luxury hotel located in the heart of Addis Ababa",
+		"location_id": 1,
+		"image": "/images/hotels/sheraton.jpg",
+		"rating": 4.3
+	},
+	{
+		"_id": 2,
+		"name": "Hilton Addis Ababa",
+		"description": "Iconic hotel overlooking the city of Addis Ababa",
+		"location_id": 1,
+		"image": "/images/hotels/hilton.jpg",
+		"rating": 4.8
+	},
+	{
+		"_id": 3,
+		"name": "Radisson Blu Hotel, Addis Ababa",
+		"description": "Contemporary hotel with a spa and fitness center",
+		"location_id": 1,
+		"image": "/images/hotels/radissonblu.jpg",
+		"rating": 4.8
+	},
+	{
+		"_id": 4,
+		"name": "Marriott Executive Apartments Addis Ababa",
+		"description": "Upscale apartments with a pool and fitness center",
+		"location_id": 1,
+		"image": "/images/hotels/marriott.jpg",
+		"rating": 4.8
+	},
+	{
+		"_id": 5,
+		"name": "Intercontinental Addis",
+		"description": "Luxury hotel with an outdoor pool and spa",
+		"location_id": 1,
+		"image": "/images/hotels/Intercontinental.jpg",
+		"rating": 5.2
+	},
+	{
+		"_id": 6,
+		"name": "Golden Tulip Addis Ababa",
+		"description": "Modern hotel with a restaurant and bar",
+		"location_id": 1,
+		"image": "/images/hotels/goldentulip.jpg",
+		"rating": 5.2
+	},
+	{
+		"_id": 7,
+		"name": "Capital Hotel & Spa",
+		"description": "Hotel with a spa and fitness center",
+		"location_id": 1,
+		"image": "/images/hotels/capital.jpg",
+		"rating": 5.2
+	},
+	{
+		"_id": 8,
+		"name": "Jupiter International Hotel - Cazanchis",
+		"description": "Contemporary hotel with a restaurant and bar",
+		"location_id": 1,
+		"image": "/images/hotels/jupiter.jpg",
+		"rating": 5.2
+	},
+	{
+		"_id": 9,
+		"name": "Ramada by Wyndham Addis Ababa",
+		"description": "Hotel with a restaurant and fitness center",
+		"location_id": 1,
+		"image": "/images/hotels/ramada.jpg",
+		"rating": 4.3
+	},
+	{
+		"_id": 10,
+		"name": "Kaleb Hotel",
+		"description": "Hotel with a restaurant and bar",
+		"location_id": 1,
+		"image": "/images/hotels/Kaleb.jpg",
+		"rating": 3.8
+	},
+	{
+		"_id": 11,
+		"name": "Elilly International Hotel",
+		"description": "Hotel with a restaurant and fitness center",
+		"location_id": 1,
+		"image": "/images/hotels/elilly.png",
+		"rating": 3.8
+	},
+	{
+		"_id": 12,
+		"name": "The Nexus Hotel",
+		"description": "Hotel with a restaurant and bar",
+		"location_id": 1,
+		"image": "/images/hotels/nexus.jpg",
+		"rating": 3.8
+	},
+	{
+		"_id": 13,
+		"name": "Blue Nile Resort",
+		"description": "Luxurious resort located on the shores of Lake Tana.",
+		"location_id": 3,
+		"image": "/images/hotels/bluenile.jpg",
+		"rating": 3.8
+	},
+	{
+		"_id": 14,
+		"name": "Kuriftu Resort & Spa",
+		"description": "Relaxing resort with a spa and beautiful views of Lake Tana.",
+		"location_id": 3,
+		"image": "/images/hotels/kuriftu.jpg",
+		"rating": 3.8
+	},
+	{
+		"_id": 15,
+		"name": "Tana Hotel",
+		"description": "Comfortable hotel located near the city center and the lake.",
+		"location_id": 3,
+		"image": "/images/hotels/tana-hotel.jpg",
+		"rating": 4.3
+	},
+	{
+		"_id": 16,
+		"name": "Summerland Hotel",
+		"description": "Modern hotel with a rooftop bar and restaurant.",
+		"location_id": 3,
+		"image": "/images/hotels/summerland.jpg",
+		"rating": 4.3
+	},
+	{
+		"_id": 17,
+		"name": "Paradise Lodge Arbaminch",
+		"description": "Cozy lodge located on the outskirts of Bahirdar with a great view of the city.",
+		"location_id": 3,
+		"image": "/images/hotels/paradise-lodge.jpg",
+		"rating": 4.3
+	},
+	{
+		"_id": 18,
+		"name": "Ghion Hotel",
+		"description": "Historic hotel located near the city center with views of Lake Tana.",
+		"location_id": 3,
+		"image": "/images/hotels/ghion-hotel.jpg",
+		"rating": 3.4
+	},
+	{
+		"_id": 19,
+		"name": "Zeist Lodge",
+		"description": "Beautiful lodge located on the outskirts of Bahirdar with stunning views of Lake Tana.",
+		"location_id": 3,
+		"image": "/images/hotels/zeist-lodge.jpeg",
+		"rating": 3.4
+	},
+	{
+		"_id": 20,
+		"name": "Lewi Resort Awasa",
+		"description": "A luxurious resort located on the shores of Lake Awasa.",
+		"location_id": 4,
+		"image": "/images/hotels/lewi-resort-awasa.jpg",
+		"rating": 3.4
+	},
+	{
+		"_id": 21,
+		"name": "Emerald Resort",
+		"description": "Emerald Resort is a perfect getaway destination for those who seek relaxation, comfort, and luxury am_idst nature. It offers various activities such as bird watching, boat r_ides, and gu_ided hikes.",
+		"location_id": 7,
+		"image": "/images/hotels/emerald-resort.jpg",
+		"rating": 3.4
+	},
+	
+	{
+		"_id": 22,
+		"name": "Haile Resort ",
+		"description": "Haile Resort is a modern hotel located in the heart of Arbaminch. It offers comfortable accommodation, a restaurant, and a bar.",
+		"location_id": 7,
+		"image": "/images/hotels/haile-resort.jpg",
+		"rating": 3.4
+	},
+	{
+		"_id": 23,
+		"name": "Lewi Resort",
+		"description": "Lewi Resort is located at the heart of sodo and offers breathtaking views of the lake and surrounding mountains. It features comfortable accommodation, a restaurant, and a swimming pool.",
+		"location_id": 7,
+		"image": "/images/hotels/lewi-resort.jpg",
+		"rating": 4.5
+	},
+	{
+		"_id": 24,
+		"name": "Haile Resort Awasa",
+		"description": "A luxurious resort located on the shores of Lake Awasa.",
+		"location_id": 4,
+		"image": "/images/hotels/haile-resort-awasa.jpg",
+		"rating": 4.5
+	},
+	{
+		"_id": 25,
+		"name": "Hyatt Regency",
+		"description": "A luxurious resort located at the heart of Addis Ababa.",
+		"location_id": 4,
+		"image": "/images/hotels/hyatt-regency.jpg",
+		"rating": 4.5
+	},
+	{
+		"_id": 26,
+		"name": "Aregash Lodge",
+		"description": "A charming eco-lodge with traditional thatched-roof bungalows.",
+		"location_id": 4,
+		"image": "/images/hotels/aregash-lodge.jpg",
+		"rating": 4.5
+	},
+	{
+		"_id": 27,
+		"name": "Oasis International Hotel",
+		"description": "A modern hotel with comfortable rooms and a rooftop restaurant.",
+		"location_id": 4,
+		"image": "/images/hotels/oasis-hotel.jpg",
+		"rating": 4.3
+	},
+	{
+		"_id": 28,
+		"name": "wassamar-hotel Hotel",
+		"description": "A modern hotel with comfortable rooms and a rooftop restaurant.",
+		"location_id": 4,
+		"image": "/images/hotels/wassamar-hotel.jpeg",
+		"rating": 4.3
+	}
+]

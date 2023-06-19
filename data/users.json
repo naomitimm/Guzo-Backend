@@ -1,0 +1,102 @@
+[
+	{
+		"_id": "1",
+		"name": "Tsega Yaekob",
+		"email": "admin@natours.io",
+		"active": true,
+		"imageCover": "user-1.jpg",
+		"password": "gfr657uyj",
+		"passwordConfirm": "gfr657uyj",
+		"role_id": 1
+	},
+	{
+		"_id": "2",
+		"name": "Lourdes Browning",
+		"email": "loulou@example.com",
+		"active": true,
+		"imageCover": "user-2.jpg",
+		"password": "drtyughbu",
+		"passwordConfirm": "drtyughbu",
+		"role_id": 2
+	},
+	{
+		"_id": "3",
+		"name": "Sophie Louise Hart",
+		"email": "sophie@example.com",
+		"active": true,
+		"imageCover": "user-3.jpg",
+		"password": "8765rtfgh",
+		"passwordConfirm": "8765rtfgh",
+		"role_id": 2
+	},
+	{
+		"_id": "4",
+		"name": "Ayla Cornell",
+		"email": "ayls@example.com",
+		"active": true,
+		"imageCover": "user-4.jpg",
+		"password": "9876ythg",
+		"passwordConfirm": "9876ythg",
+		"role_id": 2
+	},
+	{
+		"_id": "5",
+		"name": "Leo Gillespie",
+		"email": "leo@example.com",
+		"active": true,
+		"imageCover": "user-5.jpg",
+		"password": "765tygjh",
+		"passwordConfirm": "765tygjh",
+		"role_id": 2
+	},
+	{
+		"_id": "6",
+		"name": "Jennifer Hardy",
+		"email": "jennifer@example.com",
+		"active": true,
+		"imageCover": "user-6.jpg",
+		"password": "87654erdfg",
+		"passwordConfirm": "87654erdfg",
+		"role_id": 2
+	},
+	{
+		"_id": "7",
+		"name": "Kate Morrison",
+		"email": "kate@example.com",
+		"active": true,
+		"imageCover": "user-7.jpg",
+		"password": "4rfgdedeby",
+		"passwordConfirm": "4rfgdedeby",
+		"role_id": 2
+	},
+	{
+		"_id": "8",
+		"name": "Eliana Stout",
+		"email": "eliana@example.com",
+		"active": true,
+		"imageCover": "user-8.jpg",
+		"password": "786ytfehg",
+		"passwordConfirm": "786ytfehg",
+		"role_id": 2
+	},
+	{
+		"_id": "9",
+		"name": "Cristian Vega",
+		"email": "chris@example.com",
+		"active": true,
+		"imageCover": "user-9.jpg",
+		"password": "45345feve",
+		"passwordConfirm": "45345feve",
+		"role_id": 2
+	},
+	{
+		"_id": "10",
+		"name": "Steve T. Scaife",
+		"email": "steve@example.com",
+		"active": true,
+		"imageCover": "user-10.jpg",
+		"password": "5675edyrgm",
+		"passwordConfirm": "5675edyrgm",
+		"role_id": 2
+	}
+]
